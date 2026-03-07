@@ -1,1 +1,1 @@
-The readme has been updated!
+These are my Obsidian notes from my main vault
